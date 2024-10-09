@@ -21,6 +21,3 @@ N/A
 ## License
 
 MIT License
-
-<permalink: /index.html>
-
